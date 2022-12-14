@@ -1,0 +1,11 @@
+.props {
+    max-width: 500px;
+    margin: 5% auto;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 2%;
+    border-radius: 3%;
+  }
+
+  img {
+    width: 64%;
+  }
